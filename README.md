@@ -20,3 +20,8 @@ Rectorisk Is a game that has more games in it. Kinda like roblox but better, BUT
 • You need Atleast 2 CPU Cores
 
 • Python Installed on the server
+
+
+****MORE STUFF****
+
+• Want to be a beta tester? Sign up at ```https://forms.gle/AG9bme3rRokQmHZVA```
