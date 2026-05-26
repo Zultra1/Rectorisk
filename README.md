@@ -10,3 +10,9 @@ Rectorisk Is a game that has more games in it. Kinda like roblox but better, BUT
 • No bad updates
 
 • Server Software can run locally on any Windows, Mac, Or Linux Device. Or you can run it on a Local Server. Check the Requirements down below
+
+
+****REQUIREMENTS TO RUN LOCALLY****
+• Make sure you have atleast 4GB of ram
+• You need Atleast 2 CPU Cores
+• Python Installed on the server
