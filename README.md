@@ -1,4 +1,4 @@
-# Rectorisk
+# Rectorisk BETA
 Rectorisk Is a game that has more games in it. Kinda like roblox but better, BUT IT IS OPEN SOURCE!!!! 😁😁😁😁😁
 
 ****FEATURES****
@@ -22,6 +22,3 @@ Rectorisk Is a game that has more games in it. Kinda like roblox but better, BUT
 • Python Installed on the server
 
 
-****MORE STUFF****
-
-• Want to be a beta tester? Sign up at ```https://forms.gle/AG9bme3rRokQmHZVA```
