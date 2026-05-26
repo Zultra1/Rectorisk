@@ -13,6 +13,10 @@ Rectorisk Is a game that has more games in it. Kinda like roblox but better, BUT
 
 
 ****REQUIREMENTS TO RUN LOCALLY****
+
+
 • Make sure you have atleast 4GB of ram
+
 • You need Atleast 2 CPU Cores
+
 • Python Installed on the server
